@@ -119,7 +119,7 @@ exports.index = function(req, res){
         reports:reports,
         scripts: scripts, 
         stylesheets: stylesheets, 
-        title: "Hack4Co App",
+        title: "Community Garden Planner",
         mapComponents : mapComponents
     }
    

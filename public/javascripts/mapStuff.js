@@ -181,6 +181,9 @@ $(function(){
 
                 map.addLayer(foodStore);
                 map.getLayer('popDD').hide();
+                
+           
+                //map.getLayer('goodFood').hide();
 
 
                 //BEGIN Potential plots
